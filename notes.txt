@@ -1,0 +1,18 @@
+actions auto :
+- aller vers l'arrière-scène
+- placer des pixels sur la toile de fond ou dans l'arrière-scène
+- aléatoire : points en plaçant un pixel BLEU sur le repère sélectionné de façon aléatoire
+    ou JAUNE sur leur toile de fond dans l'emplacement correspondant;
+    points extra si un item d'équipe est utilisé en place du pixel blanc
+
+actions teleop :
+- placer des pixels sur la toile de fond ou dans l'arrière-scène
+- créer des mosaïques
+- Pour des pixels de pointage qui traversent la ligne de mise en place sur leur toile de fond (???)
+
+actions finales :
+- supendre les robots
+- stationner des robots dans l'arrière-scène
+- drones
+
+mosaïques : 3 pixels de la même couleur OU 3 pixels de 3 couleurs différentes != blanc; ne peut toucher de pixels non blancs
