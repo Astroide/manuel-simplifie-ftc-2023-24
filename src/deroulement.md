@@ -1,6 +1,6 @@
 # Déroulement d'une partie
 
-Une partie dure `2:30`.
+Une partie dure 2 minutes 30.
 
 | Temps            | Information |
 |------------------|-------------|
